@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.pai{
+    display:flex;
+    justify-content:space-between;
+    width:100%;
+    background-color:red;
+}
+
+.login{
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: blue;
+    width:100%;
+    color:white;
+    padding:5px;
+}
+
+input{
+    border-radius: 30px blue;
+}
+
+button{
+    border-radius:5px;
+    padding:3px;
+    background-color:black;
+    color:white;
+}
